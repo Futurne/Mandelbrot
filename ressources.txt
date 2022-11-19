@@ -1,0 +1,4 @@
+https://tomroelandts.com/articles/how-to-compute-the-mandelbrot-set-using-numpy-array-operations
+https://www.math.univ-toulouse.fr/~cheritat/wiki-draw/index.php/Mandelbrot_set
+https://zsiciarz.github.io/24daysofrust/book/vol1/day14.html
+https://rustsim.org/
